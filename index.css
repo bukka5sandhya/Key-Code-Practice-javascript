@@ -1,0 +1,14 @@
+.main-container{
+    text-align: center;
+}
+.heading{
+    font-family: 'Bree Serif';
+    font-size:30px;
+    text-align: center;
+    color:#3e4c59;
+}
+.key-code-list{
+    list-style-type: none;
+    
+
+}
